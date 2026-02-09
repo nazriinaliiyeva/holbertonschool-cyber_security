@@ -1,2 +1,2 @@
 #!/bin/bash
-setatus
+sestatus
