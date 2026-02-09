@@ -1,2 +1,2 @@
 #!/bin/bash
-aa_status
+aa-status
